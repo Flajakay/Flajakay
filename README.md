@@ -1,16 +1,14 @@
-## Hi there 👋
+👨‍💻 Welcome to my code universe!
 
-<!--
-**Flajakay/Flajakay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently building:
+   • A novel reading & publishing platform - connecting authors and readers through an integrated content ecosystem 
+   • OCR & AI translation platform - extracting text from images and using AI to translate across languages (private)
+   
+🛠️ Tech stack: JavaScript, Node.js, Express, Python, FastAPI, MongoDB, ElasticSearch, C#, PaddleOCR, OpenAI
+🌐 Languages: English, Polish, Ukrainian, Russian
 
-Here are some ideas to get you started:
+🎓 Studying Applied Computer Science at Nicolaus Copernicus University, Toruń
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Visit my interactive AI-powered resume at nikita-koval.website where you can chat with my portfolio!
+
+📫 Connect: nikitakovaldev@gmail.com
