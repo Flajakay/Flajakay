@@ -6,7 +6,7 @@
    
 2. OCR & AI translation platform - extracting text from images and using AI to translate across languages (private)
    
-🛠️ Tech stack: JavaScript, Node.js, Express, Python, FastAPI, MongoDB, ElasticSearch, C#, PaddleOCR, OpenAI <br>
+🛠️ Tech stack: JavaScript, Node.js, Express, Python, FastAPI, MongoDB, ElasticSearch, MySQL, PHP, C#, PaddleOCR, OpenAI<br>
 
 🌐 Languages: English, Polish, Ukrainian, Russian
 
